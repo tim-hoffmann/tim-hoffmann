@@ -2,6 +2,7 @@
 
 # I'm a Software Engineer 👨‍💻 from Germany, welcome to my Github Profile!
 
+### ⚡️ Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#15](https://github.com/KingDarBoja/serverless-plugin-typescript/pull/15) in [KingDarBoja/serverless-plugin-typescript](https://github.com/KingDarBoja/serverless-plugin-typescript)
 <!--END_SECTION:activity-->
