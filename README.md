@@ -17,7 +17,7 @@
 
 <br />
 
-### ⚡️ Recent GitHub Activity
+### ⚡️ Recent GitHub Activity:
 
 <!--START_SECTION:activity-->
 
