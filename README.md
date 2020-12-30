@@ -19,7 +19,7 @@
 
 ### ⚡️ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#57](https://github.com/TypedProject/tsed-cli/pull/57) in [TypedProject/tsed-cli](https://github.com/TypedProject/tsed-cli)
+1. 🎉 Merged PR [#1](https://github.com/tim-hoffmann/tsed-serverless/pull/1) in [tim-hoffmann/tsed-serverless](https://github.com/tim-hoffmann/tsed-serverless)
 <!--END_SECTION:activity-->
 
 ### ✉️ Connect with me:
