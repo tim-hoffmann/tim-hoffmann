@@ -20,9 +20,9 @@
 ### ⚡️ Recent GitHub Activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/tim-hoffmann/tsed-serverless/pull/1) in [tim-hoffmann/tsed-serverless](https://github.com/tim-hoffmann/tsed-serverless)
-2. 💪 Opened PR [#57](https://github.com/TypedProject/tsed-cli/pull/57) in [TypedProject/tsed-cli](https://github.com/TypedProject/tsed-cli)
-3. 💪 Opened PR [#15](https://github.com/KingDarBoja/serverless-plugin-typescript/pull/15) in [KingDarBoja/serverless-plugin-typescript](https://github.com/KingDarBoja/serverless-plugin-typescript)
+1. 💪 Opened PR [#72](https://github.com/serverless-components/website/pull/72) in [serverless-components/website](https://github.com/serverless-components/website)
+2. 🎉 Merged PR [#1](https://github.com/tim-hoffmann/tsed-serverless/pull/1) in [tim-hoffmann/tsed-serverless](https://github.com/tim-hoffmann/tsed-serverless)
+3. 💪 Opened PR [#57](https://github.com/TypedProject/tsed-cli/pull/57) in [TypedProject/tsed-cli](https://github.com/TypedProject/tsed-cli)
 <!--END_SECTION:activity-->
 
 ### ✉️ Connect with me:
