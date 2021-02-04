@@ -20,10 +20,6 @@
 ### ⚡️ Recent GitHub Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19420](https://github.com/vercel/next.js/issues/19420) in [vercel/next.js](https://github.com/vercel/next.js)
-2. ❗️ Opened issue [#12](https://github.com/SamKirkland/plop-templates/issues/12) in [SamKirkland/plop-templates](https://github.com/SamKirkland/plop-templates)
-3. 💪 Opened PR [#72](https://github.com/serverless-components/website/pull/72) in [serverless-components/website](https://github.com/serverless-components/website)
-<!--END_SECTION:activity-->
 
 ### ✉️ Connect with me:
 
