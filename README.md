@@ -20,11 +20,11 @@
 ### ⚡️ Recent GitHub Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19420](https://github.com/vercel/next.js/issues/19420) in [vercel/next.js](https://github.com/vercel/next.js)
-2. ❗️ Opened issue [#12](https://github.com/SamKirkland/plop-templates/issues/12) in [SamKirkland/plop-templates](https://github.com/SamKirkland/plop-templates)
-3. 💪 Opened PR [#72](https://github.com/serverless-components/website/pull/72) in [serverless-components/website](https://github.com/serverless-components/website)
-4. 🎉 Merged PR [#1](https://github.com/tim-hoffmann/tsed-serverless/pull/1) in [tim-hoffmann/tsed-serverless](https://github.com/tim-hoffmann/tsed-serverless)
-5. 💪 Opened PR [#57](https://github.com/TypedProject/tsed-cli/pull/57) in [TypedProject/tsed-cli](https://github.com/TypedProject/tsed-cli)
+1. 🗣 Commented on [#11](https://github.com/timche/docker-csgo/issues/11) in [timche/docker-csgo](https://github.com/timche/docker-csgo)
+2. 🗣 Commented on [#19420](https://github.com/vercel/next.js/issues/19420) in [vercel/next.js](https://github.com/vercel/next.js)
+3. ❗️ Opened issue [#12](https://github.com/SamKirkland/plop-templates/issues/12) in [SamKirkland/plop-templates](https://github.com/SamKirkland/plop-templates)
+4. 💪 Opened PR [#72](https://github.com/serverless-components/website/pull/72) in [serverless-components/website](https://github.com/serverless-components/website)
+5. 🎉 Merged PR [#1](https://github.com/tim-hoffmann/tsed-serverless/pull/1) in [tim-hoffmann/tsed-serverless](https://github.com/tim-hoffmann/tsed-serverless)
 <!--END_SECTION:activity-->
 
 ### ✉️ Connect with me:
