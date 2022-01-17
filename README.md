@@ -20,6 +20,8 @@
 ### ⚡️ Recent GitHub Activity:
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#296](https://github.com/pulumi/pulumi-docker/issues/296) in [pulumi/pulumi-docker](https://github.com/pulumi/pulumi-docker)
+<!--END_SECTION:activity-->
 
 ### ✉️ Connect with me:
 
