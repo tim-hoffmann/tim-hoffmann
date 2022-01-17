@@ -20,11 +20,6 @@
 ### ⚡️ Recent GitHub Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/SamKirkland/plop-templates/issues/12) in [SamKirkland/plop-templates](https://github.com/SamKirkland/plop-templates)
-2. 🗣 Commented on [#11](https://github.com/timche/docker-csgo/issues/11) in [timche/docker-csgo](https://github.com/timche/docker-csgo)
-3. 🗣 Commented on [#19420](https://github.com/vercel/next.js/issues/19420) in [vercel/next.js](https://github.com/vercel/next.js)
-4. ❗️ Opened issue [#12](https://github.com/SamKirkland/plop-templates/issues/12) in [SamKirkland/plop-templates](https://github.com/SamKirkland/plop-templates)
-5. 💪 Opened PR [#72](https://github.com/serverless-components/website/pull/72) in [serverless-components/website](https://github.com/serverless-components/website)
 <!--END_SECTION:activity-->
 
 ### ✉️ Connect with me:
