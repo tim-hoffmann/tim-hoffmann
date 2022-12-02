@@ -20,7 +20,7 @@
 ### ⚡️ Recent GitHub Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#296](https://github.com/pulumi/pulumi-docker/issues/296) in [pulumi/pulumi-docker](https://github.com/pulumi/pulumi-docker)
+1. 💪 Opened PR [#404](https://github.com/shelfio/jest-mongodb/pull/404) in [shelfio/jest-mongodb](https://github.com/shelfio/jest-mongodb)
 <!--END_SECTION:activity-->
 
 ### ✉️ Connect with me:
