@@ -20,7 +20,7 @@
 ### ⚡️ Recent GitHub Activity:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#404](https://github.com/shelfio/jest-mongodb/pull/404) in [shelfio/jest-mongodb](https://github.com/shelfio/jest-mongodb)
+1. 🗣 Commented on [#21004](https://github.com/storybookjs/storybook/issues/21004) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
 <!--END_SECTION:activity-->
 
 ### ✉️ Connect with me:
