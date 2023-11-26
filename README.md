@@ -17,6 +17,11 @@
 ### ⚡️ Recent GitHub Activity:
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#9353](https://github.com/marmelab/react-admin/pull/9353#issuecomment-1792099697) in [marmelab/react-admin](https://github.com/marmelab/react-admin)
+2. 💪 Opened PR [#9353](https://github.com/marmelab/react-admin/pull/9353) in [marmelab/react-admin](https://github.com/marmelab/react-admin)
+3. 🗣 Commented on [#9350](https://github.com/marmelab/react-admin/issues/9350#issuecomment-1758955944) in [marmelab/react-admin](https://github.com/marmelab/react-admin)
+4. ❗ Opened issue [#9350](https://github.com/marmelab/react-admin/issues/9350) in [marmelab/react-admin](https://github.com/marmelab/react-admin)
+<!--END_SECTION:activity-->
 
 ### ✉️ Connect with me:
 
