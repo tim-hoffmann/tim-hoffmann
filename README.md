@@ -17,18 +17,15 @@
 ### ⚡️ Recent GitHub Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9353](https://github.com/marmelab/react-admin/pull/9353#issuecomment-1792099697) in [marmelab/react-admin](https://github.com/marmelab/react-admin)
-2. 💪 Opened PR [#9353](https://github.com/marmelab/react-admin/pull/9353) in [marmelab/react-admin](https://github.com/marmelab/react-admin)
-3. 🗣 Commented on [#9350](https://github.com/marmelab/react-admin/issues/9350#issuecomment-1758955944) in [marmelab/react-admin](https://github.com/marmelab/react-admin)
-4. ❗ Opened issue [#9350](https://github.com/marmelab/react-admin/issues/9350) in [marmelab/react-admin](https://github.com/marmelab/react-admin)
-<!--END_SECTION:activity-->
 
 ### ✉️ Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[![Website](https://img.shields.io/badge/--static?label=tim-hoffmann.net&style=social)](https://tim-hoffmann.net) 
+[![Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/_timhoffmann) 
+[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/tim-hoffmann-365911122/)
 
 <br />
 <br />
@@ -36,7 +33,6 @@
 ![Tims's github stats](https://github-readme-stats.vercel.app/api?username=tim-hoffmann&count_private=true)
 
 [website]: http://tim-hoffmann.net
-[linkedin]: https://www.linkedin.com/in/tim-hoffmann-365911122/
 [react]: https://reactjs.org/
 [vscode]: https://code.visualstudio.com/
 [graphql]: https://graphql.org/
